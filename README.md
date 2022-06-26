@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Maria Ramirez
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently working at The Ksquare Group, as a Salesforce Developer.
+- 👀 System Engineer
+- 🌱 I’m currently working at The Ksquare Group, as a Salesforce Developer
 - 📫 You can reach me at Mariiaramirezr@outlook.com
